@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<library path="jps_planner">
+  <class name="jps_planner/JPSPlanner" type="jps_planner::JPSPlanner" base_class_type="nav2_core::GlobalPlanner">
+    <description>Jump Point Search global planner</description>
+  </class>
+</library>
